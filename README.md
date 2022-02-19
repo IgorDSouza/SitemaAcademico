@@ -1,2 +1,2 @@
 # SitemaAcademico
-Tarefa
+Projeto para aprendizado. Aulas de DS. Professor Jackson
