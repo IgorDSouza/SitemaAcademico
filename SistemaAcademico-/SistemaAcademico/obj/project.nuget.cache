@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "j2GMPoZRBChsa3r7viBkGAwakAQ1I/mAK88tVlqpqucMs7Jv5qSpG3/LMlzLPaKrnwuziBv+p9gxq36WKK5LsA==",
+  "dgSpecHash": "fBjggT4dkUXYWxiI0Nlaebx0tuHN0hDxHjaazJTrUrmSa+nBIAod6Il9xOSNjl2uftft1aWv/rEf0no1vhiDBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jacksonwss\\source\\repos\\SistemaAcademico\\SistemaAcademico\\SistemaAcademico.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\SitemaAcademico\\SistemaAcademico-\\SistemaAcademico\\SistemaAcademico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Igor de Souza\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512",
+    "C:\\Users\\Igor de Souza\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Igor de Souza\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Igor de Souza\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
